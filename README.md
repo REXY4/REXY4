@@ -8,6 +8,23 @@
 </head>
 <body>
 <h1 align="center">Hi 👋, I'm M.RIZKI ISWANTO</h1>
-<h3>Fullstack Developer</h3>
+<h3 align="center">Fullstack Developer</h3>
+<ul>
+    <li>
+        🌱 I’m currently learning deveOps, Redux and more about Express
+    </li>
+    <li>
+        👨‍💻 All of my projects are available at https://github.com/ranaawni
+    </li>
+    <li>
+        💬 Ask me about react, express , mysql , javascript
+    </li>
+    <li>
+        📫 How to reach me https://www.linkedin.com/in/rana-alhmoud-b14b4164/
+    </li>
+    <li>
+        📄 Know about my experiences https://drive.google.com/file/d/10zw5FvFytlSd0i4rodK03T5Oyq4rBlb0/view?usp=sharing
+    </li>
+</ul>
 </body>
 </html>
