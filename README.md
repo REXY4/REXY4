@@ -17,13 +17,7 @@ Connect with me:
 https://www.linkedin.com/in/rizkiiswanto/ 
 
 Languages and Tools:
--node js
-[![React](https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png)](https://facebook.github.io/react/ | width=50)
--React Native
--express js
 
-<img src="http://3con14.biz/code/_data/js/intro/js-logo.png" width="100" height="100">
--php
--laravel
--docker
+<img src="http://3con14.biz/code/_data/js/intro/js-logo.png" width="100" height="100" border-radius="20">
+
 
