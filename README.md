@@ -38,7 +38,7 @@
     <h3>Languages and Tools:</h3>
 </div>
 <div>
-    <img src="https://img.icons8.com/cute-clipart/64/000000/react-native.png" width="30"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png" width="30"/> <img src="https://img.icons8.com/fluency/48/000000/node-js.png" width="30"/> <img src="https://img.icons8.com/color/48/000000/javascript--v2.png" width="30"/> <img src="https://img.icons8.com/ios-filled/50/000000/php.png" width="30"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="30"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="30"/> <img src="https://img.icons8.com/color/48/000000/docker.png" width="30"/>
+    <img src="https://img.icons8.com/cute-clipart/64/000000/react-native.png" width="30"/> <img src="https://img.icons8.com/color/48/000000/redux.png" width="30"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png" width="30"/> <img src="https://img.icons8.com/fluency/48/000000/node-js.png" width="30"/> <img src="https://img.icons8.com/color/48/000000/javascript--v2.png" width="30"/> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-php-document-computer-science-flaticons-lineal-color-flat-icons.png" width="30"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="30"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="30"/> <img src="https://img.icons8.com/color/48/000000/docker.png" width="30"/> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="30"/> <img src="https://img.icons8.com/color/48/000000/linux--v1.png" width="30"/>
 </div>
 </body>
 </html>
