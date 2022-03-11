@@ -20,16 +20,25 @@
         💬 Ask me about react, express , mysql , javascript, node js, laravel, php
     </li>
     <li>
-        📫 How to reach me 
-        <div>
-            <a href="https://www.linkedin.com/in/rizkiiswanto/"><img src="https://i.postimg.cc/768YHkqJ/LI-In-Bug.png" width="30"/></a>
-            <a href="https://twitter.com/MRIZKIISWANTO2"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="30"/></a>
-            <img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-gmail-social-media-justicon-flat-justicon.png" width="30"/> muhammadrzki96@gmail.com
-        </div>
+        📫 How to reach me https://www.linkedin.com/in/rizkiiswanto/
     </li>
     <li>
-        📄 Know about my experiences https://drive.google.com/file/d/10zw5FvFytlSd0i4rodK03T5Oyq4rBlb0/view?usp=sharing
+        📄 Know about my experiences https://drive.google.com/file/d/1ICDmsADPp5QsLFKe9PGeiuIt95bDS88i/view?usp=sharing
     </li>
 </ul>
+
+<div>
+    <h3>Connect with me:</h3>
+</div>
+<div>
+    <a href="https://www.linkedin.com/in/rizkiiswanto/"><img src="https://i.postimg.cc/768YHkqJ/LI-In-Bug.png" width="30"/></a>
+    <a href="https://twitter.com/MRIZKIISWANTO2"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="30"/></a>
+</div>
+<div>
+    <h3>Connect with me:</h3>
+</div>
+<div>
+    <img src="https://img.icons8.com/cute-clipart/64/000000/react-native.png" width="30"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png" width="30"/> <img src="https://img.icons8.com/fluency/48/000000/node-js.png" width="30"/> <img src="https://img.icons8.com/wired/64/000000/javascript-logo.png" width="30"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="30"/> <img src="https://img.icons8.com/color/48/000000/docker.png" width="30"/>
+</div>
 </body>
 </html>
