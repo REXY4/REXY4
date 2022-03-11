@@ -14,12 +14,7 @@
         🌱 I’m currently learning deveOps, Redux and more about Express
     </li>
     <li>
-    <div>
-        👨‍💻 All of my projects are available at
-    </div>
-    <div> 
-    <a><img src="https://i.postimg.cc/y8sd9BRm/Git-Hub-Mark-Light-120px-plus.png"/></a>
-    </div>
+        👨‍💻 All of my projects are available at <a><img src="https://i.postimg.cc/y8sd9BRm/Git-Hub-Mark-Light-120px-plus.png" width="30"/></a>
     </li>
     <li>
         💬 Ask me about react, express , mysql , javascript
