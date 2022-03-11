@@ -14,7 +14,7 @@
         🌱 I’m currently learning deveOps, Redux and more about Express
     </li>
     <li>
-        👨‍💻 All of my projects are available at https://github.com/ranaawni
+        👨‍💻 All of my projects are available at <a><img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_nextjs.png?raw=true"/></a>
     </li>
     <li>
         💬 Ask me about react, express , mysql , javascript
