@@ -8,6 +8,6 @@
 </head>
 <body>
 <h1 align="center">Hi 👋, I'm M.RIZKI ISWANTO</h1>
-<h5>Fullstack Developer</h5>
+<h3>Fullstack Developer</h3>
 </body>
 </html>
