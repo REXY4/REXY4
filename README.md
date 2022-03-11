@@ -18,7 +18,7 @@
         👨‍💻 All of my projects are available at :
     </div>
     <div> 
-        <a><img src="https://i.postimg.cc/y8sd9BRm/Git-Hub-Mark-Light-120px-plus.png" width="20" padding-top="20"/> Github</a>
+        <a href="https://github.com/REXY4"><img src="https://i.postimg.cc/y8sd9BRm/Git-Hub-Mark-Light-120px-plus.png" width="20" padding-top="20"/></a>
     </div>
     </li>
     <li>
