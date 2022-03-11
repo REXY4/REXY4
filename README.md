@@ -17,4 +17,12 @@ Connect with me:
 https://www.linkedin.com/in/rizkiiswanto/ 
 
 Languages and Tools:
-angularjs aws chartjs css3 django docker express firebase flutter git graphql heroku html5 javascript kubernetes linux mongodb mysql nodejs php python react redux ruby
+-node js
+[![React](https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png)](https://facebook.github.io/react/)
+-React Native
+-express js
+-javascript
+-php
+-laravel
+-docker
+
