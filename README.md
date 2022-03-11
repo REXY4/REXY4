@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**REXY4/REXY4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋, I'm M.RIZKI ISWANTO
 
-Here are some ideas to get you started:
+I'm Fullstack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning python,djanggo, and machine learning
+
+👨‍💻 All of my projects are available at https://github.com/REXY4
+
+💬 Ask me about react, express , mysql , javascript,Laravel, docker, nginx
+
+📫 How to reach me https://www.linkedin.com/in/rizkiiswanto/
+
+📄 Know about my experiences https://drive.google.com/file/d/1ICDmsADPp5QsLFKe9PGeiuIt95bDS88i/view?usp=sharing
+
+Connect with me:
+https://www.linkedin.com/in/rizkiiswanto/ 
+
+Languages and Tools:
+angularjs aws chartjs css3 django docker express firebase flutter git graphql heroku html5 javascript kubernetes linux mongodb mysql nodejs php python react redux ruby
