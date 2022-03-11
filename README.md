@@ -16,8 +16,7 @@ I'm Fullstack Developer
 Connect with me:
 https://www.linkedin.com/in/rizkiiswanto/ 
 
-Languages and Tools:
-[![typescript](https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.jpg)](https://www.typescriptlang.org/)
+<h3>Languages and Tools:</h3>
 
 <img src="http://3con14.biz/code/_data/js/intro/js-logo.png" width="100" height="100" border-radius="20">
 <img src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.jpg" width="100" height="100" border-radius="20">
