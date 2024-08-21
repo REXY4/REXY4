@@ -11,7 +11,7 @@
 <h3 align="center">Fullstack Developer</h3>
 <ul>
     <li>
-        🌱 I’m currently learning python,machine learning,data scientist,djanggo
+        🌱 I’m currently learning python,machine learning,data scientist
     </li>
     <li>
         👨‍💻 All of my projects are available at : https://github.com/REXY4
