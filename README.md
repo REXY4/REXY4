@@ -22,9 +22,7 @@
     <li>
         📫 How to reach me https://www.linkedin.com/in/rizkiiswanto/
     </li>
-    <li>
-        📄 Know about my experiences https://drive.google.com/file/d/1ICDmsADPp5QsLFKe9PGeiuIt95bDS88i/view?usp=sharing
-    </li>
+    
 </ul>
 
 <div>
