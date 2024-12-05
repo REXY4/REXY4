@@ -31,7 +31,7 @@
 <div>
     <a href="https://www.linkedin.com/in/rizkiiswanto/"><img src="https://i.postimg.cc/768YHkqJ/LI-In-Bug.png" width="30"/></a>
     <a href="https://twitter.com/MRIZKIISWANTO2"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="30"/></a>
-    <a href="https://www.youtube.com/watch?v=aNmYIi0jKts"><img src="https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg" width="30"/></a>
+    <a href="https://www.youtube.com/watch?v=aNmYIi0jKts" style="background:white;"><img src="https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg" width="100" height="100"/></a>
 </div>
 <div>
     <h3>Languages and Tools:</h3>
