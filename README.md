@@ -28,7 +28,7 @@
 <div>
     <h3>Connect with me:</h3>
 </div>
-<div>
+<div style="width:100%">
     <a href="https://www.linkedin.com/in/rizkiiswanto/"><img src="https://i.postimg.cc/768YHkqJ/LI-In-Bug.png" width="30"/></a>
     <a href="https://twitter.com/MRIZKIISWANTO2"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="30"/></a>
     <a href="https://www.youtube.com/watch?v=aNmYIi0jKts" style="background:white;"><img src="https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg" width="100" height="100"/></a>
